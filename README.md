@@ -1,2 +1,2 @@
 # world-climate-change-api
-Developed Climate Change API 
+Developed a simple Climate Change REST API  
